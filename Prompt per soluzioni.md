@@ -1,1 +1,0 @@
-Mi fai un canvas dove mi metti le soluzioni di tutto il modulo e come prima: ricopi anche le consegne e i dialoghi, con traduzioni complete. Poi riporti anche gli esercizi, traduzioni e soluzioni per piacere Inoltre, dove sono i numeri o le ore scrivimele come pronunciarle perché non mi ricordo ogni volta... quando traduci o quando risolvi per esempio
