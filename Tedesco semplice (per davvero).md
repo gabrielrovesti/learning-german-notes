@@ -1,10 +1,10 @@
 # TEDESCO A1 - COMPENDIO COMPLETO
 
-**Moduli 0-7 | Guida Rapida di Riferimento**
+**Moduli 0-8 + Materiale Supplementare | Guida Completa di Riferimento**
 
 ---
 
-## 📝 PRESENTAZIONE PERSONALE (pronta all'uso)
+## 📋 PRESENTAZIONE PERSONALE (pronta all'uso)
 
 **Hallo! Ich heiße Gabriel.**  
 **Ich bin 24 Jahre alt und komme aus Italien.**  
@@ -42,14 +42,40 @@
 
 ---
 
-### 2. ARTICOLI DETERMINATIVI
+### 2. ARTICOLI DETERMINATIVI E INDETERMINATIVI
+
+#### Articoli Determinativi ("the")
 
 |Caso|Maschile|Femminile|Neutro|Plurale|
 |---|---|---|---|---|
 |**Nominativo**|der|die|das|die|
 |**Accusativo**|**den** ⚠️|die|das|die|
+|**Dativo**|dem|der|dem|den (+n)|
+|**Genitivo**|des|der|des|der|
 
 **Regola importante**: Solo il maschile cambia all'accusativo (der → den)
+
+#### Articoli Indeterminativi ("a/an")
+
+|Caso|Maschile|Femminile|Neutro|Plurale|
+|---|---|---|---|---|
+|**Nominativo**|ein|eine|ein|—|
+|**Accusativo**|**einen**|eine|ein|—|
+|**Dativo**|einem|einer|einem|—|
+|**Genitivo**|eines|einer|eines|—|
+
+**Quando usare ogni caso:**
+
+- **Nominativo**: soggetto (chi fa l'azione)
+- **Accusativo**: oggetto diretto (chi/cosa riceve l'azione)
+- **Dativo**: oggetto indiretto / dopo preposizioni specifiche (mit, bei, nach, aus, zu, von)
+- **Genitivo**: possesso (raro nel parlato, sostituito da "von + dativo")
+
+**Pattern da memorizzare:**
+
+1. Solo il maschile cambia all'accusativo: der → den, ein → einen
+2. Il dativo plurale attrae sempre una -n: den Kindern, den Freunden
+3. Il femminile è sempre "die/eine" al nominativo e accusativo
 
 ---
 
@@ -68,31 +94,64 @@
 
 ---
 
-## 🔢 NUMERI (0-100)
+## 🔢 NUMERI (0-100) - SISTEMA COMPLETO
 
-### Numeri Base (0-20)
+### Numeri Base (0-12)
 
-|N°|DE|N°|DE|N°|DE|N°|DE|
-|---|---|---|---|---|---|---|---|
-|0|**null**|5|**fünf**|10|**zehn**|15|**fünfzehn**|
-|1|**eins**|6|**sechs**|11|**elf**|16|**sechzehn**|
-|2|**zwei**|7|**sieben**|12|**zwölf**|17|**siebzehn**|
-|3|**drei**|8|**acht**|13|**dreizehn**|18|**achtzehn**|
-|4|**vier**|9|**neun**|14|**vierzehn**|19|**neunzehn**|
+|N°|Tedesco|Pronuncia|Note|
+|---|---|---|---|
+|0|**null**|[nul]|u breve|
+|1|**eins**|[ainss]|ei → ai|
+|2|**zwei**|[tsvai]|Z = ts, ei → ai|
+|3|**drei**|[drai]|ei → ai|
+|4|**vier**|[fir]|ie → i lungo|
+|5|**fünf**|[fünf]|ü come u francese|
+|6|**sechs**|[zexs]|s sonora|
+|7|**sieben**|[zibn]|ie → i lungo|
+|8|**acht**|[axt]|ch gutturale|
+|9|**neun**|[noin]|eu → oi|
+|10|**zehn**|[tse:n]|Z = ts, e lunga|
+|11|**elf**|[elf]|e breve|
+|12|**zwölf**|[tsvölf]|ö come eu francese|
 
-### Decine e Numeri Composti
+### Numeri 13-20
 
-|20|zwanzig|50|fünfzig|80|achtzig|
-|---|---|---|---|---|---|
-|30|**dreißig**|60|**sechzig**|90|neunzig|
-|40|vierzig|70|**siebzig**|100|**hundert**|
+|N°|Tedesco|Costruzione|Note|
+|---|---|---|---|
+|13|**dreizehn**|drei + zehn||
+|14|**vierzehn**|vier + zehn||
+|15|**fünfzehn**|fünf + zehn||
+|16|**sechzehn**|**sech** + zehn|⚠️ s finale sparisce|
+|17|**siebzehn**|**sieb** + zehn|⚠️ en finale sparisce|
+|18|**achtzehn**|acht + zehn||
+|19|**neunzehn**|neun + zehn||
+|20|**zwanzig**|[tsvantsig]|g finale → ch o k|
 
-**📌 REGOLA COMPOSIZIONE**: unità + **und** + decina
+### Decine (20-100)
 
-- 21 = **ein**und**zwanzig**
-- 34 = **vier**und**dreißig**
-- 47 = **sieben**und**vierzig**
-- 99 = **neun**und**neunzig**
+|N°|Tedesco|Note|
+|---|---|---|
+|20|**zwanzig**||
+|30|**dreißig**|⚠️ usa ß, non z|
+|40|**vierzig**||
+|50|**fünfzig**||
+|60|**sechzig**|⚠️ s di sechs sparisce|
+|70|**siebzig**|⚠️ en di sieben sparisce|
+|80|**achtzig**||
+|90|**neunzig**||
+|100|**hundert**||
+
+### 📌 REGOLA COMPOSIZIONE (21-99)
+
+**Struttura invertita**: unità + **und** + decina
+
+**Esempi:**
+
+- 21 = **einundzwanzig** (uno + e + venti)
+- 34 = **vierunddreißig** (quattro + e + trenta)
+- 47 = **siebenundvierzig** (sette + e + quaranta)
+- 68 = **achtundsechzig** (otto + e + sessanta)
+- 99 = **neunundneunzig** (nove + e + novanta)
 
 ---
 
@@ -105,10 +164,18 @@
 - **eu/äu** → **oi** (heute = oggi, Häuser = case)
 - **ch** → suono gutturale (Buch = libro, nicht = non)
 - **sch** → sc italiana (Schule = scuola)
+- **Z** → **ts** (Zeit = tempo)
+- **ß** → ss (groß = grande)
+
+### Vocali con Umlaut
+
+- **ä** → e aperta (Käse = formaggio)
+- **ö** → eu francese (schön = bello)
+- **ü** → u francese (über = sopra)
 
 ---
 
-## 👋 MODULO 1: SALUTI
+## 👋 MODULO 1: SALUTI E CONGEDI
 
 ### FORMALE (Sie)
 
@@ -167,10 +234,13 @@
 - **die Kinder** = figli
 - **der Sohn** = figlio
 - **die Tochter** = figlia
+- **die Eltern** = genitori
+- **der Vater** = padre
+- **die Mutter** = madre
 
 ---
 
-## 🌍 MODULO 3: PAESI E LINGUE
+## 🌍 MODULO 3: PAESI, NAZIONALITÀ E LINGUE
 
 ### Preposizioni di Luogo
 
@@ -195,6 +265,8 @@
 |Frankreich|Franzose/Französin|Französisch|
 |England|Engländer/Engländerin|Englisch|
 |Spanien|Spanier/Spanierin|Spanisch|
+|Österreich|Österreicher/Österreicherin|Deutsch|
+|die Schweiz|Schweizer/Schweizerin|Deutsch/Französisch/Italienisch|
 
 ---
 
@@ -230,6 +302,7 @@
 |der Kellner|die Kellnerin|cameriere|
 |der Sekretär|die Sekretärin|segretario|
 |der Architekt|die Architektin|architetto|
+|der Ingenieur|die Ingenieurin|ingegnere|
 
 **📌 Regola**: La forma femminile si forma aggiungendo **-in** alla forma maschile
 
@@ -239,24 +312,24 @@
 
 ### Oggetti da Ufficio
 
-|Tedesco|Italiano|
-|---|---|
-|der Schreibtisch|la scrivania|
-|der Bildschirm|lo schermo|
-|der Rechner / der Computer|il computer|
-|die Tastatur|la tastiera|
-|die Maus|il mouse|
-|der Stift|la penna|
-|der Drucker|la stampante|
-|der Kopierer|la fotocopiatrice|
-|das Telefon|il telefono|
-|das Faxgerät|il fax|
-|der Kalender|il calendario|
-|der Papierkorb|il cestino|
-|die Schere|le forbici|
-|der Hefter|la cucitrice|
-|der Aktenordner|il raccoglitore|
-|das Ablagefach|il vassoio portadocumenti|
+|Tedesco|Genere|Italiano|
+|---|---|---|
+|der Schreibtisch|m|la scrivania|
+|der Bildschirm|m|lo schermo|
+|der Rechner / der Computer|m|il computer|
+|die Tastatur|f|la tastiera|
+|die Maus|f|il mouse|
+|der Stift|m|la penna|
+|der Drucker|m|la stampante|
+|der Kopierer|m|la fotocopiatrice|
+|das Telefon|n|il telefono|
+|das Faxgerät|n|il fax|
+|der Kalender|m|il calendario|
+|der Papierkorb|m|il cestino|
+|die Schere|f|le forbici|
+|der Hefter|m|la cucitrice|
+|der Aktenordner|m|il raccoglitore|
+|das Ablagefach|n|il vassoio portadocumenti|
 
 ### Azioni in Ufficio
 
@@ -285,186 +358,245 @@
 
 ## 🎨 MODULO 6: DIE FARBEN (I Colori)
 
-### Colori Fondamentali
-
-|Tedesco|Italiano|Esempio|
-|---|---|---|
-|**rot**|rosso|Das Auto ist rot|
-|**blau**|blu|Der Himmel ist blau|
-|**gelb**|giallo|Die Sonne ist gelb|
-|**grün**|verde|Das Gras ist grün|
-|**schwarz**|nero|Die Nacht ist schwarz|
-|**weiß**|bianco|Der Schnee ist weiß|
-|**grau**|grigio|Die Wolken sind grau|
-|**braun**|marrone|Der Tisch ist braun|
-|**orange**|arancione|Die Orange ist orange|
-|**rosa/pink**|rosa|Die Blume ist rosa|
-|**lila/violett**|viola|Das Kleid ist lila|
-
-### Colori Composti e Sfumature
+### Colori Base
 
 |Tedesco|Italiano|
 |---|---|
-|**dunkelblau**|blu scuro|
-|**hellblau**|azzurro / blu chiaro|
-|**dunkelgrün**|verde scuro|
-|**hellgrün**|verde chiaro|
-|**dunkelrot**|rosso scuro|
-|**hellrot**|rosso chiaro|
+|rot|rosso|
+|blau|blu|
+|gelb|giallo|
+|grün|verde|
+|schwarz|nero|
+|weiß|bianco|
+|grau|grigio|
+|braun|marrone|
+|orange|arancione|
+|rosa|rosa|
+|lila/violett|viola|
 
-**📌 Regola Composizione**:
+### Regole Grammaticali
 
-- **dunkel-** + colore = colore scuro
-- **hell-** + colore = colore chiaro
+**1. Aggettivi di colore:**
 
-### Domande sui Colori
+- Si scrivono sempre in minuscolo
+- Si comportano come normali aggettivi
+- Esempi: das blaue T-Shirt, die grüne Hose
 
-|Domanda|Risposta|Traduzione|
-|---|---|---|
-|**Welche Farbe hat...?**|Es ist rot|Che colore ha...?|
-|**Was ist deine Lieblingsfarbe?**|Meine Lieblingsfarbe ist blau|Qual è il tuo colore preferito?|
-|**Welche Farbe magst du?**|Ich mag grün|Quale colore ti piace?|
+**2. Colori composti:**
 
-### Frasi con i Colori
+**a) Colore unico composto** (tonalità unica) → si scrive attaccato
 
-- **Das Buch ist rot** = Il libro è rosso
-- **Der Stift ist blau** = La penna è blu
-- **Die Wand ist weiß** = Il muro è bianco
-- **Die Tasche ist schwarz** = La borsa è nera
-- **Das Hemd ist grün** = La camicia è verde
+- rotbraun (marrone rossastro)
+- hellgrün (verde chiaro)
+- dunkellila (viola scuro)
+
+**b) Due o più colori distinti** → si usa il trattino
+
+- gelb-rot (giallo e rosso)
+- rot-grün (rosso e verde)
+- schwarz-rot-golden (nero-rosso-oro, bandiera tedesca)
+
+**c) Intensità del colore:**
+
+- hell + colore → hellblau (blu chiaro)
+- dunkel + colore → dunkelgrün (verde scuro)
+
+**3. Colori indeclinabili** (non si declinano):
+
+- orange
+- rosa
+- lila
+
+Esempi: ein rosa Rock, eine lila Bluse
+
+### Colori Poetici/Descrittivi
+
+|Tedesco|Traduzione letterale|
+|---|---|
+|sonnengelb|giallo sole|
+|himmelblau|blu cielo|
+|rabenschwarz|nero corvo|
+|blattgrün|verde foglia|
+|giftgrün|verde acido|
+|pechschwarz|nero pece|
+|nachtblau|blu notte|
+|taubengrau|grigio colomba|
+|mausgrau|grigio topo|
+|flaschengrün|verde bottiglia|
+|blutrot|rosso sangue|
+|feuerrot|rosso fuoco|
+|blütenweiß|bianco fiore|
+|honiggelb|giallo miele|
+|kalkweiß|bianco calce|
+
+### Frasi Utili
+
+- **Meine Lieblingsfarbe ist blau** = Il mio colore preferito è il blu
+- **Ich trage heute ein schwarzes T-Shirt** = Oggi indosso una maglietta nera
+- **Die Wände sind weiß** = Le pareti sono bianche
+- **Was ist deine Lieblingsfarbe?** = Qual è il tuo colore preferito?
+- **Welche Farben trägst du heute?** = Quali colori indossi oggi?
 
 ---
 
-## 📝 MODULO 7: AVVERBI VS AGGETTIVI
+## 📐 MODULO 7: AVVERBIO VS AGGETTIVO
 
 ### Differenza Fondamentale
 
-**Aggettivo (Adjektiv)**: descrive un **nome**
+**AGGETTIVO:**
 
-- Was für ein Gedächtnis? - Ein **bewundernswert gutes** Gedächtnis
+- Descrive un sostantivo
+- Si declina (cambia forma)
+- Esempio: das **schnelle** Auto (l'auto veloce)
 
-**Avverbio (Adverb)**: descrive un **verbo** o un'azione
+**AVVERBIO:**
 
-- Wie laut schreit sie? - **Sehr laut**
+- Descrive un verbo, aggettivo o altro avverbio
+- NON si declina (forma invariabile)
+- Esempio: Er fährt **schnell** (guida velocemente)
 
-**Regola chiave**:
+### Esempi Comparativi
 
-- Aggettivo si riferisce a un **Nomen**
-- Avverbio si riferisce a un **Verb**
+|Aggettivo (declinato)|Avverbio (invariabile)|
+|---|---|
+|Das Haus ist **groß**|Er arbeitet **gut**|
+|Ein **großes** Haus|Sie spricht **langsam**|
+|Der **große** Mann|Wir kommen **bald**|
 
-### Tipi di Avverbi (Übersicht)
+### Formazione Avverbi
 
-|Tipo|Esempi|Traduzione|
-|---|---|---|
-|**Lokaladverbien** (luogo)|dort, hier, weg|là, qui, via|
-|**Temporaladverbien** (tempo)|heute, morgen, jetzt|oggi, domani, ora|
-|**Kausaladverbien** (causa)|deshalb, deswegen|perciò, quindi|
-|**Modaladverbien** (modo)|daher, folglich|pertanto, di conseguenza|
+Molti avverbi si formano dall'aggettivo senza modifiche:
 
-### Esempi Pratici
-
-**Aggettivo**:
-
-- der **tapfere** Ritter (il cavaliere coraggioso)
-
-**Avverbio**:
-
-- Der Ritter kämpft **tapfer** (Il cavaliere combatte coraggiosamente)
+- schnell (veloce) → schnell (velocemente)
+- gut (buono) → gut (bene)
+- langsam (lento) → langsam (lentamente)
 
 ---
 
-## ⏰ DIE UHR (L'Orologio)
+## ⏰ SISTEMA ORARIO COMPLETO (DIE UHRZEIT)
 
-### Chiedere l'Ora
+### Come Chiedere l'Ora
 
-|Domanda|Risposta|Traduzione|
+|Domanda|Risposta|Italiano|
 |---|---|---|
-|**Wie spät ist es?**|Es ist ein Uhr|Che ora è? / È l'una|
-|**Wie viel Uhr ist es?**|Es ist drei Uhr|Che ore sono? / Sono le tre|
-|**Wann essen wir?**|Um 12:30 Uhr|Quando mangiamo? / Alle 12:30|
-|**Von wann bis wann?**|Von 12 bis 14 Uhr|Da quando a quando? / Dalle 12 alle 14|
+|**Wie spät ist es?**|Es ist ein Uhr|Che ora è? È l'una|
+|**Wie viel Uhr ist es?**|Es ist drei Uhr|Che ore sono? Sono le tre|
+|**Wann essen wir?**|Um 12:30 Uhr|Quando mangiamo? Alle 12:30|
+|**Von wann bis wann?**|Von 12 bis 14 Uhr|Da quando a quando? Dalle 12 alle 14|
 
-### Struttura Oraria
+### Formale vs Informale
 
-**Formale (24 ore)**: Es ist neunzehn Uhr fünfundvierzig **Informale (12 ore)**: Es ist sieben Uhr fünfundvierzig
+**FORMALE (24 ore):**
 
-**Attenzione**:
+- Es ist **neunzehn Uhr fünfundvierzig** (19:45)
+- Es ist **dreizehn Uhr** (13:00)
 
-- 13:00 Uhr → Es ist **ein Uhr** (non "dreizehn")
-- 12:30 Uhr → Es ist **halb eins** (non "halb zwölf")
+**INFORMALE (12 ore):**
 
-### Regole: nach / halb / vor
+- Es ist **sieben Uhr fünfundvierzig** (7:45)
+- Es ist **ein Uhr** (13:00 → 1:00)
 
-|Minuti|Preposizione|Esempio|Traduzione|
-|---|---|---|---|
-|0-20|**nach**|zwanzig **nach** elf|le 11:20|
-|20-40|**halb**|**halb** zwölf|le 11:30|
-|40-59|**vor**|zwanzig **vor** zwölf|le 11:40|
+### Sistema nach/halb/vor
 
-### Espressioni Temporali Chiave
+**📌 Regole:**
 
-- **Viertel nach** = e un quarto (15 minuti dopo)
-- **halb** = e mezza (30 minuti dopo)
-- **Viertel vor** = meno un quarto (15 minuti prima)
-- **punkt** = in punto (Es ist punkt zwölf = È mezzogiorno in punto)
+- **0-20 minuti** → **nach** (dopo)
+    
+    - 11:20 = **zwanzig nach elf**
+    - 8:15 = **Viertel nach acht**
+- **20-40 minuti** → **halb** (mezza)
+    
+    - 11:30 = **halb zwölf** ⚠️ (mezza verso le dodici!)
+    - 8:30 = **halb neun**
+- **40-59 minuti** → **vor** (prima)
+    
+    - 11:40 = **zwanzig vor zwölf**
+    - 7:45 = **Viertel vor acht**
 
-### Preposizioni Temporali
+### Termini Speciali
 
-|Tedesco|Italiano|Esempio|
+- **Viertel** = quarto d'ora (15 minuti)
+- **halb** = mezza (30 minuti)
+- **punkt** = in punto (esatto)
+- **um** = alle (preposizione temporale)
+
+### Esempi Pratici
+
+|Ora|Formale|Informale|
 |---|---|---|
-|**um**|alle (ora precisa)|um 8 Uhr = alle 8|
-|**von... bis**|dalle... alle|von 9 bis 17 Uhr|
-|**gegen**|verso|gegen 18 Uhr = verso le 18|
+|8:00|acht Uhr|acht Uhr|
+|8:05|acht Uhr fünf|fünf nach acht|
+|8:15|acht Uhr fünfzehn|Viertel nach acht|
+|8:30|acht Uhr dreißig|halb neun|
+|8:45|acht Uhr fünfundvierzig|Viertel vor neun|
+|8:50|acht Uhr fünfzig|zehn vor neun|
+|12:00|zwölf Uhr|punkt zwölf|
+
+### Frasi Temporali
+
+- **Ich stehe um sieben Uhr auf** = Mi alzo alle sette
+- **Der Unterricht fängt um acht Uhr an** = La lezione inizia alle otto
+- **Er dauert bis halb zehn** = Dura fino alle nove e mezza
+- **Ich arbeite von neun bis siebzehn Uhr** = Lavoro dalle nove alle diciassette
 
 ---
 
 ## 🔄 FREQUENZADVERBIEN (Avverbi di Frequenza)
 
-### Domanda: **Wie oft?** (Quanto spesso?)
+### Domanda Chiave
 
-### Avverbi Principali
+**Wie oft?** = Quanto spesso?
 
-|Tedesco|Italiano|Esempio|
+### Avverbi di Frequenza Principali
+
+|Tedesco|Italiano|Frequenza|
 |---|---|---|
-|**dauernd**|continuamente|Ich arbeite dauernd|
-|**oft / oftmals**|spesso|Ich gehe oft ins Kino|
-|**manchmal**|a volte|Ich lese manchmal|
-|**selten**|raramente|Ich koche selten|
-|**nie / niemals**|mai|Ich rauche nie|
+|**immer**|sempre|100%|
+|**dauernd**|continuamente|~90%|
+|**oft / oftmals**|spesso|~70%|
+|**meist / meistens**|per lo più|~60%|
+|**manchmal**|a volte|~40%|
+|**selten**|raramente|~20%|
+|**nie / niemals**|mai|0%|
 
-### Frequenza Specifica
+### Avverbi con Numero
 
-|Tedesco|Italiano|
-|---|---|
-|**einmal**|una volta|
-|**zwei Mal**|due volte|
-|**drei Mal**|tre volte|
-|**mehrmals**|più volte|
-|**meist / meistens**|per lo più, quasi sempre|
+- **einmal** = una volta
+- **zweimal** = due volte
+- **dreimal** = tre volte
+- **mehrmals** = più volte
 
-### Frequenza Regolare
+### Avverbi Temporali Regolari
 
 |Tedesco|Italiano|
 |---|---|
 |**minütlich**|ogni minuto|
 |**stündlich**|ogni ora|
-|**täglich**|ogni giorno / quotidianamente|
+|**täglich**|ogni giorno|
 |**wöchentlich**|settimanalmente|
 |**monatlich**|mensilmente|
 |**jährlich**|annualmente|
 
-### Esempi Pratici
+### Altri Avverbi Utili
 
-- **Ich gehe zweimal pro Woche zum Yoga** = Vado a yoga due volte a settimana
-- **Ich treffe mich oft mit Freunden** = Mi incontro spesso con gli amici
-- **Ich rufe meine Eltern täglich an** = Chiamo i miei genitori ogni giorno
-- **Ich schaue stündlich auf die Uhr** = Guardo l'orologio ogni ora
+- **nochmals / wieder** = di nuovo
+- **pro Woche** = a settimana
+- **pro Monat** = al mese
+- **im Monat** = al mese
+
+### Esempi di Frasi
+
+- **Ich gehe oft ins Kino** = Vado spesso al cinema
+- **Ich lese täglich die Zeitung** = Leggo il giornale ogni giorno
+- **Wir treffen uns zweimal pro Woche** = Ci incontriamo due volte a settimana
+- **Sie ruft selten an** = Chiama raramente
+- **Er geht nie schwimmen** = Non va mai a nuotare
 
 ---
 
-## 🌅 EIN TYPISCHER TAGESABLAUF (Una Giornata Tipo)
+## 📅 EIN TYPISCHER TAGESABLAUF (Una Giornata Tipo)
 
-### Vocabolario - Attività Quotidiane
+### Attività Quotidiane - Vocabolario Completo
 
 |Tedesco|Italiano|
 |---|---|
@@ -475,7 +607,6 @@
 |**Zeitung lesen**|leggere il giornale|
 |**sich die Zähne putzen**|lavarsi i denti|
 |**sich anziehen**|vestirsi|
-|**zur Arbeit gehen**|andare al lavoro|
 |**mit dem Auto fahren**|andare in macchina|
 |**mit dem Bus fahren**|andare in autobus|
 |**arbeiten**|lavorare|
@@ -483,37 +614,164 @@
 |**zu Abend essen**|cenare|
 |**fernsehen**|guardare la TV|
 |**ins Bett gehen**|andare a letto|
-|**Hausaufgaben machen**|fare i compiti|
-|**spielen**|giocare|
-|**putzen**|pulire|
-|**die Wäsche waschen**|lavare il bucato|
-|**bügeln**|stirare|
-|**einkaufen**|fare la spesa|
-|**spazieren gehen**|fare una passeggiata|
+|**schlafen gehen**|andare a dormire|
 
-### Connettori Temporali
+### Attività Domestiche
 
 |Tedesco|Italiano|
 |---|---|
-|**morgens**|al mattino / la mattina|
-|**mittags**|a mezzogiorno|
-|**nachmittags**|nel pomeriggio|
-|**abends**|la sera|
+|**putzen**|pulire|
+|**die Wäsche waschen**|lavare il bucato|
+|**die Wäsche aufhängen**|stendere il bucato|
+|**bügeln**|stirare|
+|**einkaufen**|fare la spesa|
+|**kochen**|cucinare|
+|**aufräumen**|riordinare|
+
+### Connettori Temporali per Sequenze
+
+|Tedesco|Italiano|
+|---|---|
+|**zuerst**|prima|
 |**dann**|poi|
 |**danach**|dopo|
 |**anschließend**|successivamente|
 |**später**|più tardi|
+|**am Abend**|la sera|
 |**schließlich**|infine|
-|**zuerst**|prima / per primo|
-|**zum Schluss**|alla fine|
 
-### Esempio di Routine Completa
+### Esempio di Tagesablauf
 
-**Morgens** stehe ich um sieben Uhr auf. **Dann** dusche ich und putze mir die Zähne. **Danach** frühstücke ich und ziehe mich an. **Anschließend** gehe ich zur Arbeit.
+**Mein typischer Tag:**
 
-**Mittags** arbeite ich weiter und esse zu Mittag.
+Morgens stehe ich um sieben Uhr auf. Dann dusche ich und putze mir die Zähne. Danach frühstücke ich und ziehe mich an. Anschließend gehe ich zur Arbeit.
 
-**Abends** gehe ich nach Hause, esse zu Abend, sehe fern oder lese ein Buch. **Schließlich** gehe ich um dreiundzwanzig Uhr ins Bett.
+Mittags arbeite ich weiter und esse zu Mittag.
+
+Abends gehe ich nach Hause, esse zu Abend, sehe fern oder lese ein Buch. Schließlich gehe ich um dreiundzwanzig Uhr ins Bett.
+
+### Domande sulla Routine
+
+- **Wann stehen Sie morgens auf?** = A che ora si alza al mattino?
+- **Was machen Sie am Vormittag?** = Cosa fa durante la mattina?
+- **Essen Sie zu Mittag zu Hause?** = Pranza a casa?
+- **Was machen Sie abends?** = Cosa fa la sera?
+- **Wann gehen Sie ins Bett?** = A che ora va a letto?
+
+---
+
+## 🔨 MODULO 8: VERBI E CONIUGAZIONI AVANZATE
+
+### Verbi Regolari - Schema Base
+
+**Radice + terminazioni:**
+
+|Persona|Terminazione|Esempio: lernen|
+|---|---|---|
+|ich|-e|lerne|
+|du|-st|lernst|
+|er/sie/es|-t|lernt|
+|wir|-en|lernen|
+|ihr|-t|lernt|
+|sie/Sie|-en|lernen|
+
+### Verbi Irregolari Importanti
+
+#### **wissen** (sapere)
+
+|Persona|Forma|
+|---|---|
+|ich|weiß|
+|du|weißt|
+|er/sie/es|weiß|
+|wir|wissen|
+|ihr|wisst|
+|sie/Sie|wissen|
+
+#### **können** (potere/saper fare)
+
+|Persona|Forma|
+|---|---|
+|ich|kann|
+|du|kannst|
+|er/sie/es|kann|
+|wir|können|
+|ihr|könnt|
+|sie/Sie|können|
+
+#### **müssen** (dovere)
+
+|Persona|Forma|
+|---|---|
+|ich|muss|
+|du|musst|
+|er/sie/es|muss|
+|wir|müssen|
+|ihr|müsst|
+|sie/Sie|müssen|
+
+#### **wollen** (volere)
+
+|Persona|Forma|
+|---|---|
+|ich|will|
+|du|willst|
+|er/sie/es|will|
+|wir|wollen|
+|ihr|wollt|
+|sie/Sie|wollen|
+
+#### **sollen** (dovere morale)
+
+|Persona|Forma|
+|---|---|
+|ich|soll|
+|du|sollst|
+|er/sie/es|soll|
+|wir|sollen|
+|ihr|sollt|
+|sie/Sie|sollen|
+
+#### **dürfen** (avere il permesso)
+
+|Persona|Forma|
+|---|---|
+|ich|darf|
+|du|darfst|
+|er/sie/es|darf|
+|wir|dürfen|
+|ihr|dürft|
+|sie/Sie|dürfen|
+
+### Verbi Separabili
+
+**Prefissi separabili comuni:** ab-, an-, auf-, aus-, ein-, mit-, nach-, vor-, zu-
+
+**Struttura frase:**
+
+- Presente: Prefisso va alla fine
+    - **Ich stehe um 7 Uhr auf** (alzarsi)
+    - **Der Zug fährt um 8 Uhr ab** (partire)
+
+**Esempi verbi separabili:**
+
+- **aufstehen** → Ich stehe auf
+- **anrufen** → Ich rufe an
+- **einkaufen** → Ich kaufe ein
+- **anfangen** → Es fängt an
+- **aufmachen** → Ich mache auf
+- **zumachen** → Ich mache zu
+
+### Verbi Non Separabili
+
+**Prefissi NON separabili:** be-, emp-, ent-, er-, ge-, miss-, ver-, zer-
+
+**Questi prefissi restano sempre attaccati al verbo:**
+
+- **verstehen** → Ich verstehe (capire)
+- **bekommen** → Ich bekomme (ricevere)
+- **erzählen** → Ich erzähle (raccontare)
+- **vergessen** → Ich vergesse (dimenticare)
 
 ---
 
@@ -521,7 +779,7 @@
 
 ### Presentazione Completa
 
-**Hallo! Ich heiße Gabriel Rovesti. Ich bin 24 Jahre alt und komme aus Italien. Ich wohne in Padua. Ich arbeite als IT-Consultant und auch als Lehrer. Meine Hobbys sind Musik hören, Sport machen und Lesen. Ich habe keine Kinder. Meine Lieblingsfarbe ist blau.**
+**Hallo! Ich heiße Gabriel Rovesti. Ich bin 24 Jahre alt und komme aus Italien. Ich wohne in Padua. Ich arbeite als IT-Consultant und auch als Lehrer. Meine Hobbys sind Musik hören, Sport machen und Lesen. Ich habe keine Kinder.**
 
 ### Mini-Dialogo Standard
 
@@ -533,329 +791,110 @@
 **B:** Ich komme aus Italien. Und du?  
 **A:** Ich komme aus Deutschland.
 
-### Conversazione sull'Orario
+### Conversazione sulla Routine
 
-**A:** Wie spät ist es?  
-**B:** Es ist Viertel nach drei.  
-**A:** Wann beginnt der Unterricht?  
-**B:** Um halb neun.  
-**A:** Wie lange dauert er?  
-**B:** Von acht Uhr dreißig bis zehn Uhr.
-
-### Routine Quotidiana (breve)
-
-**Ich stehe um sieben Uhr auf. Dann dusche ich und frühstücke. Anschließend gehe ich zur Arbeit. Mittags esse ich zu Mittag. Abends gehe ich nach Hause und sehe fern. Schließlich gehe ich um dreiundzwanzig Uhr ins Bett.**
+**A:** Was machst du normalerweise morgens?  
+**B:** Ich stehe um sieben Uhr auf, dusche und frühstücke.  
+**A:** Wann gehst du zur Arbeit?  
+**B:** Um acht Uhr. Ich fahre mit dem Bus.  
+**A:** Und abends?  
+**B:** Ich komme gegen sechs nach Hause, esse zu Abend und sehe fern.
 
 ---
 
-## 📌 RIEPILOGO GRAMMATICALE RAPIDO
+## 📖 APPENDICE: CONGIUNZIONI UTILI
 
-### Verbi Regolari - Coniugazione Base
+### Congiunzioni Coordinanti
 
-|Pronome|Terminazione|Esempio: **machen**|
+|Tedesco|Italiano|Esempio|
 |---|---|---|
-|ich|-e|ich mach**e**|
-|du|-st|du mach**st**|
-|er/sie/es|-t|er mach**t**|
-|wir|-en|wir mach**en**|
-|ihr|-t|ihr mach**t**|
-|sie/Sie|-en|sie mach**en**|
+|**und**|e|Ich arbeite und lerne Deutsch|
+|**oder**|o, oppure|Kaffee oder Tee?|
+|**aber**|ma|Ich bin müde, aber glücklich|
+|**denn**|perché|Ich bleibe zu Hause, denn es regnet|
+|**sondern**|bensì|Nicht alt, sondern jung|
 
-### Ordine delle Parole (Wortstellung)
+### Congiunzioni Subordinanti
 
-**Frase Affermativa**: Soggetto + Verbo + Complemento
-
-- Ich **gehe** zur Arbeit
-
-**Domanda con pronome interrogativo**: Pronome + Verbo + Soggetto
-
-- Woher **kommst** du?
-
-**Domanda sì/no**: Verbo + Soggetto
-
-- **Arbeitest** du heute?
-
-### Preposizioni Essenziali
-
-|Preposizione|Uso|Esempio|
+|Tedesco|Italiano|Nota|
 |---|---|---|
-|**aus**|provenienza|aus Italien|
-|**nach**|moto a luogo (paesi)|nach Deutschland|
-|**in** + Acc|moto a luogo (articolo)|in die Schweiz|
-|**von... bis**|da... a (tempo)|von 9 bis 17 Uhr|
-|**um**|a (ora precisa)|um 8 Uhr|
+|**weil**|perché|Verbo alla fine|
+|**dass**|che|Verbo alla fine|
+|**wenn**|quando/se|Verbo alla fine|
+|**ob**|se (dubbio)|Verbo alla fine|
+|**als**|quando (passato)|Verbo alla fine|
+
+**Esempi:**
+
+- **Ich lerne Deutsch, weil es wichtig ist** (studio tedesco perché è importante)
+- **Ich weiß, dass du kommst** (so che vieni)
+- **Wenn es regnet, bleibe ich zu Hause** (quando piove, resto a casa)
 
 ---
 
-## 🔧 MODULO 8: VERBI MODALI (Modalverben)
+## 🎓 TRUCCHI E STRATEGIE DI MEMORIZZAZIONE
 
-### Cosa Sono i Verbi Modali
+### Pattern Articoli
 
-I verbi modali **modificano** il significato di un altro verbo. Si usano sempre con l'**infinito** del verbo principale.
+1. **Parole che finiscono in -e** → spesso femminile (die)
+    
+    - die Ente, die Lampe, die Tasche
+2. **Parole che finiscono in -er** → spesso maschile (der)
+    
+    - der Lehrer, der Computer, der Kopierer
+3. **Parole che finiscono in -chen/-lein** → sempre neutro (das)
+    
+    - das Mädchen, das Tischlein
+4. **Verbi sostantivati** → sempre neutro (das)
+    
+    - das Lesen, das Schreiben, das Treffen
 
-**Struttura**: Verbo modale coniugato + Infinito del verbo principale
+### Memorizzazione Numeri
 
-- Du **musst** leise **sein** (Devi essere silenzioso)
+**Irregolarità chiave da ricordare:**
 
-### I 6 Verbi Modali Principali
+- 16: **sechzehn** (non sechszehn)
+- 17: **siebzehn** (non siebenzehn)
+- 30: **dreißig** (usa ß)
+- 60: **sechzig** (non sechszig)
+- 70: **siebzig** (non siebzig)
 
-|Modale|Significato|Esempio|
-|---|---|---|
-|**müssen**|dovere (necessità)|Er muss arbeiten = Deve lavorare|
-|**können**|potere (capacità)|Ich kann schwimmen = So nuotare|
-|**dürfen**|potere (permesso)|Du darfst gehen = Puoi andare|
-|**sollen**|dovere (compito)|Soll ich helfen? = Devo aiutare?|
-|**wollen**|volere|Er will lernen = Vuole imparare|
-|**möchten**|vorrei|Ich möchte Kaffee = Vorrei un caffè|
+### Sistema Orario - Trucco halb
 
-### Coniugazione Presente (Präsens)
+**⚠️ ATTENZIONE:** "halb" guarda l'ORA SUCCESSIVA
 
-|Pronome|müssen|können|dürfen|wollen|möchten|
-|---|---|---|---|---|---|
-|ich|**muss**|**kann**|**darf**|**will**|**möchte**|
-|du|**musst**|**kannst**|**darfst**|**willst**|**möchtest**|
-|er/sie/es|**muss**|**kann**|**darf**|**will**|**möchte**|
-|wir|**müssen**|**können**|**dürfen**|**wollen**|**möchten**|
-|ihr|**müsst**|**könnt**|**dürft**|**wollt**|**möchtet**|
-|sie/Sie|**müssen**|**können**|**dürfen**|**wollen**|**möchten**|
+- 8:30 = **halb neun** (letteralmente: mezza verso le nove)
+- 11:30 = **halb zwölf** (mezza verso le dodici)
 
-**Nota importante**: Al singolare (ich, du, er/sie/es) la vocale cambia rispetto all'infinito!
+### Verbi Separabili - Identificazione Rapida
 
-### Uso dei Verbi Modali
+**Prefisso separabile?** Prova a usarlo da solo in italiano:
 
-**müssen** (necessità)
-
-- Ich muss zum Arzt gehen = Devo andare dal medico
-
-**können** (capacità, possibilità, permesso)
-
-- Er kann Gitarre spielen = Sa suonare la chitarra
-- Kannst du mir helfen? = Puoi aiutarmi?
-
-**dürfen** (permesso)
-
-- Du darfst hier parken = Puoi parcheggiare qui
-- Darf ich reinkommen? = Posso entrare?
-
-**sollen** (dovere morale, consiglio)
-
-- Du sollst nicht lügen = Non devi mentire
-- Soll ich das Fenster schließen? = Devo chiudere la finestra?
-
-**wollen** (volontà)
-
-- Ich will Deutsch lernen = Voglio imparare il tedesco
-
-**möchten** (desiderio educato)
-
-- Ich möchte ein Bier = Vorrei una birra
-- Möchten Sie bezahlen? = Desidera pagare?
-
-### Verbi Modali Senza Verbo Principale
-
-I modali possono essere usati anche da soli quando il verbo è sottinteso:
-
-- **Kannst du Deutsch?** = Sai il tedesco? (sottinteso: sprechen)
-- **Ich muss nach Hause** = Devo (andare) a casa (sottinteso: gehen)
-- **Ich mag dich** = Mi piaci (mögen usato da solo)
-
-### Perfekt con i Modali (Cenno A1)
-
-Nel Perfekt, quando c'è un verbo principale, si usa l'**infinito sostitutivo**:
-
-- Er **hat** spielen **wollen** (non: gewollt)
-
-Senza verbo principale, si usa il Partizip II:
-
-- Das habe ich nicht **gewollt**
+- **auf** (su) → **auf**stehen ✓ separabile
+- **be** (???) → **be**kommen ✗ non separabile
 
 ---
 
-## 📖 VERBI FORTI E IRREGOLARI (Cenni Base)
+## 📝 CHECKLIST COMPETENZE A1
 
-### Caratteristiche dei Verbi Forti
+### ✅ So fare:
 
-Alcuni verbi cambiano la **vocale radicale** nella coniugazione:
-
-|Infinito|ich|du|er/sie/es|Cambio|
-|---|---|---|---|---|
-|**lesen**|lese|**liest**|**liest**|e → ie|
-|**sprechen**|spreche|**sprichst**|**spricht**|e → i|
-|**fahren**|fahre|**fährst**|**fährt**|a → ä|
-|**laufen**|laufe|**läufst**|**läuft**|au → äu|
-
-### Verbi Forti Più Comuni (A1)
-
-|Infinito|Traduzione|du (Presente)|er/sie/es (Presente)|
-|---|---|---|---|
-|**essen**|mangiare|isst|isst|
-|**geben**|dare|gibst|gibt|
-|**nehmen**|prendere|nimmst|nimmt|
-|**sehen**|vedere|siehst|sieht|
-|**helfen**|aiutare|hilfst|hilft|
-|**treffen**|incontrare|triffst|trifft|
-|**schlafen**|dormire|schläfst|schläft|
-
-**Regola pratica**: Il cambio avviene solo per **du** e **er/sie/es**. Le altre persone sono regolari!
+- [ ] Presentarmi (nome, età, provenienza, professione)
+- [ ] Salutare formalmente e informalmente
+- [ ] Contare da 0 a 100
+- [ ] Dire l'ora in modo formale e informale
+- [ ] Descrivere la mia giornata tipo
+- [ ] Parlare della frequenza delle mie attività
+- [ ] Nominare i colori e descrivere oggetti colorati
+- [ ] Parlare della mia famiglia e dei miei hobby
+- [ ] Chiedere e dare informazioni personali
+- [ ] Usare correttamente sein e haben
+- [ ] Riconoscere e usare articoli determinativi base
+- [ ] Formulare domande con parole interrogative
+- [ ] Descrivere azioni quotidiane
 
 ---
 
-## 🔄 VERBI SEPARABILI (Trennbare Verben)
+**Fine del Compendio Completo A1**
 
-### Cosa Sono
-
-Molti verbi tedeschi hanno un **prefisso separabile** che si stacca dal verbo e va alla **fine della frase**.
-
-### Struttura
-
-**Frase principale**: Prefisso va alla fine
-
-- Ich **stehe** um 7 Uhr **auf** (Mi alzo alle 7)
-
-**Infinito**: Prefisso attaccato al verbo
-
-- **aufstehen** (alzarsi)
-
-### Verbi Separabili Comuni
-
-|Verbo Separabile|Traduzione|Esempio Coniugato|
-|---|---|---|
-|**aufstehen**|alzarsi|Ich stehe **auf**|
-|**anrufen**|telefonare|Ich rufe dich **an**|
-|**mitkommen**|venire con|Kommst du **mit**?|
-|**aufmachen**|aprire|Er macht die Tür **auf**|
-|**zumachen**|chiudere|Sie macht das Fenster **zu**|
-|**einkaufen**|fare la spesa|Wir kaufen **ein**|
-|**anfangen**|iniziare|Der Film fängt **an**|
-|**fernsehen**|guardare la TV|Ich sehe **fern**|
-|**zurückkommen**|tornare|Wann kommst du **zurück**?|
-
-### Come Riconoscerli
-
-Prefissi separabili più comuni:
-
-- **ab-**, **an-**, **auf-**, **aus-**, **bei-**, **ein-**, **her-**, **hin-**, **los-**, **mit-**, **nach-**, **vor-**, **weg-**, **zu-**, **zurück-**
-
-### Esempi Pratici
-
-- **aufstehen**: Der Unterricht **fängt** um 9 Uhr **an**
-- **anrufen**: **Ruf** mich später **an**!
-- **einkaufen**: Ich **kaufe** heute **ein**
-
-**⚠️ Attenzione**: Con i verbi modali, il verbo separabile resta **unito** all'infinito:
-
-- Ich **muss** heute **einkaufen** (non: ein...kaufen)
-
----
-
-## 🔢 PROFESSIONI AGGIUNTIVE
-
-### Lista Estesa Professioni
-
-|Maschile|Femminile|Italiano|
-|---|---|---|
-|der Pilot|die Pilotin|pilota|
-|der Maurer|die Maurerin|muratore|
-|der Metzger/Fleischer|die Metzgerin/Fleischerin|macellaio|
-|der Tänzer|die Tänzerin|ballerino/a|
-|der Fotograf|die Fotografin|fotografo|
-|der Schauspieler|die Schauspielerin|attore/attrice|
-|der Krankenpfleger|die Krankenschwester|infermiere|
-|der Bäcker|die Bäckerin|panettiere|
-|der Mechaniker|die Mechanikerin|meccanico|
-|der Verkäufer|die Verkäuferin|commesso|
-|der Ingenieur|die Ingenieurin|ingegnere|
-
----
-
-## 📚 VERBI IRREGOLARI ESSENZIALI
-
-### sein (essere) - Tutti i Tempi Base
-
-|Presente|Preterito|Perfekt|
-|---|---|---|
-|ich **bin**|ich **war**|ich **bin gewesen**|
-|du **bist**|du **warst**|du **bist gewesen**|
-|er **ist**|er **war**|er **ist gewesen**|
-|wir **sind**|wir **waren**|wir **sind gewesen**|
-|ihr **seid**|ihr **wart**|ihr **seid gewesen**|
-|sie **sind**|sie **waren**|sie **sind gewesen**|
-
-### haben (avere) - Tutti i Tempi Base
-
-|Presente|Preterito|Perfekt|
-|---|---|---|
-|ich **habe**|ich **hatte**|ich **habe gehabt**|
-|du **hast**|du **hattest**|du **hast gehabt**|
-|er **hat**|er **hatte**|er **hat gehabt**|
-|wir **haben**|wir **hatten**|wir **haben gehabt**|
-|ihr **habt**|ihr **hattet**|ihr **habt gehabt**|
-|sie **haben**|sie **hatten**|sie **haben gehabt**|
-
----
-
-## 💬 FRASI UTILI AGGIUNTIVE
-
-### Espressioni di Cortesia
-
-|Tedesco|Italiano|
-|---|---|
-|Entschuldigung!|Scusa!/Mi scusi!|
-|Wie bitte?|Come prego?|
-|Können Sie das wiederholen?|Può ripetere?|
-|Ich verstehe nicht|Non capisco|
-|Sprechen Sie Englisch/Italienisch?|Parla inglese/italiano?|
-|Danke schön|Grazie mille|
-|Bitte schön|Prego|
-|Gern geschehen|Di niente|
-|Kein Problem|Nessun problema|
-
-### Al Ristorante
-
-- **Ich hätte gern...** = Vorrei...
-- **Die Rechnung, bitte** = Il conto, per favore
-- **Das war lecker** = Era buono
-- **Zahlen, bitte** = Pagare, per favore
-- **Getrennt oder zusammen?** = Separato o insieme?
-
-### Shopping
-
-- **Was kostet das?** = Quanto costa?
-- **Haben Sie das in Größe...?** = Ce l'ha nella taglia...?
-- **Ich suche...** = Sto cercando...
-- **Kann ich das anprobieren?** = Posso provarlo?
-- **Das nehme ich** = Lo prendo
-
----
-
-## 🎓 CONSIGLI PER LO STUDIO
-
-### Ordine di Priorità per A1
-
-1. **Verbi sein e haben** - fondamentali, imparateli perfettamente
-2. **Verbi modali** (können, müssen, möchten) - usatissimi
-3. **Verbi separabili base** (aufstehen, anrufen, einkaufen)
-4. **Verbi forti comuni** (essen, geben, nehmen, sehen)
-5. **Articoli e genere** - memorizzate ogni sostantivo con il suo articolo
-
-### Strategie di Memorizzazione
-
-**Per i verbi**:
-
-- Imparate sempre l'infinito + la terza persona singolare
-- Esempio: **sprechen** → **er spricht** (non solo "sprechen")
-
-**Per i sostantivi**:
-
-- Mai da soli! Sempre con l'articolo
-- **der Tisch** (non solo "Tisch")
-- Usate colori: rosso=maschile, blu=neutro, verde=femminile
-
-**Per la pronuncia**:
-
-- **ei** = sempre "ai" (Wein, mein, dein)
-- **ie** = sempre "i" lungo (Bier, lieben, viel)
-- **ch** dopo a, o, u = gutturale (Bach, Buch)
-- **ch** dopo e, i = dolce (ich, nicht)
-
----
+_Questo documento copre tutti i moduli 0-8, il materiale supplementare su orari, numeri, routine quotidiana, avverbi di frequenza, e note personalizzate su articoli e numeri. È progettato come riferimento rapido durante le lezioni e per il ripasso autonomo._
