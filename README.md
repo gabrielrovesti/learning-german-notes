@@ -132,10 +132,3 @@ Distribuito sotto **MIT License**.
 I contenuti sono di natura **personale ed educativa**.
 
 ---
-
-## 🚧 Stato del progetto
-
-🟢 Attivamente mantenuto
-Lezioni, moduli e rifiniture vengono aggiunti progressivamente.
-
-Dimmi tu.
